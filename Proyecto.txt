@@ -1,0 +1,6 @@
+
+Julio Cesar Perez Rodriguez     A01705763
+
+Mi proyecto consiste en un programa que calcula los volumenes y areas de figuras geometricas
+con radio como lo puede ser el cilindro, el cono y la esfera. En mi programa se utiliza 
+herencia y polimorfismo.
